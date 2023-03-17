@@ -7,3 +7,5 @@ Example call:
 ```cmd
 python spoof.py -rp "C:\Users\Ethan\Documents\coding-stuff\spoofing-repo-hahaha" -sd 2023-01-01 -ed 2023-03-16
 ```
+
+The path must be to a repo that is already initialized. Probably more convincing if the repo you spoof your commits to is private.
